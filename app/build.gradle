@@ -55,7 +55,7 @@ android {
 	compileSdkVersion 31
 	defaultConfig {
 		applicationId "me.tagavari.airmessage"
-		minSdkVersion 23
+		minSdkVersion 15
 		targetSdkVersion 31
 		versionName "3.5.2"
 		versionCode 140
